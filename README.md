@@ -99,7 +99,7 @@ gem install rails
 Clone this repository to your desired folder:
 ```
 cd my folder
-git clone  https://github.com/hernandanielzamora/Ruby-Capstone.git
+git clone  https://github.com/hernandanielzamora/hello-rails-back-end
 ```
 
 ### Install
