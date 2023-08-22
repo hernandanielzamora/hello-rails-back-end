@@ -168,6 +168,6 @@ I would like to thank Microverse for teaching me Ruby.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](../../LICENSE) licensed.
+This project is [MIT](https://github.com/hernandanielzamora/hello-rails-back-end/blob/feature/hello-rails-backend/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

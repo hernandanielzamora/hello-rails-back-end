@@ -14,3 +14,10 @@
 #       methods: [:get, :post, :put, :patch, :delete, :options, :head]
 #   end
 # end
+
+Rails.application.config.middleware.insert_before 0, Rack::Cors do
+  allow do
+    origins '*'  # Add the IP of your React app here
+    resource '/api/*', headers: :any, methods: [:get, :post, :put, :patch, :delete, :options]
+  end
+end
