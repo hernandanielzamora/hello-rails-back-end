@@ -23,7 +23,7 @@
 
 # 📖  Hello Rails Back End <a name="about-project"></a>
 
-**Hello Rails Back End** Is an app built as an API that connects with the react front-end app that you can find (here)[https://github.com/hernandanielzamora/hello-react-front-end]. It's only porpuse is to test the implementation.
+**Hello Rails Back End** Is an app built as an API that connects with the react front-end app that you can find [here](https://github.com/hernandanielzamora/hello-react-front-end). Its only purpose is to test the implementation.
 
 ## 🛠 Built With <a name="built-with"></a>
 
